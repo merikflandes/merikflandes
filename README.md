@@ -1,5 +1,4 @@
 # ¡Hola, soy Mario! 👾
-### Estudiante de Ciberseguridad 
 
 ---
 
